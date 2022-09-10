@@ -1,0 +1,215 @@
+@media(min-width:992px) and (max-width:1199.98px){
+
+ 
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+
+  /* menu part responsive start */
+  .menu-bg{
+    background: #141035;
+  }
+  /* menu part responsive end */
+
+  /* story part responsive start */
+  .story-info p{
+    margin-bottom: 10px;
+  }
+  /* story part responsive end */
+
+      /* experience part responsive start */
+      .exper-item{
+        padding: 25px 0;
+      }
+      .exper-item h4 {
+        font-size: 20px;
+    }
+    .exper-item p {
+        font-size: 15px;
+    }
+    /* experience part responsive end */
+    /* team part responsive start */
+    .team-item{
+        margin-bottom: 20px;
+    }
+    /* team part responsive end */
+
+    /* people say part responsive start */
+    .people-item {
+        padding: 0 30px;
+    }
+    /* people say part responsive end */
+
+    /* conact part responsive start */
+    .contact-header h4 {
+        font-size: 25px;
+
+    }
+    /* conact part responsive end */
+
+    /* footer part responsive start */
+    .footer-bottom1 ul li{
+        margin-right: 10px;
+    }
+    /* footer part responsive end */
+    
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+
+  /* menu part responsive start */
+  .menu-bg{
+    background: #141035;
+  }
+  /* menu part responsive end */
+
+  /* banner part responsive start */
+  .banner-text span{
+    line-height: 35px;
+    font-size: 25px;
+  }
+  /* banner part responsive end */
+
+    /* experience part responsive start */
+    .exper-item{
+        padding: 25px 0;
+      }
+      .exper-item h4 {
+        font-size: 15px;
+    }
+    .exper-item p {
+        font-size: 15px;
+    }
+    /* experience part responsive end */
+
+    /* team part responsive start */
+    .team-item{
+        margin-bottom: 20px;
+    }
+    /* team part responsive end */
+
+    /* work part responsive start */
+    .work-btn button{
+        margin-bottom: 10px;
+    }
+    /* work part responsive end */
+
+    /* people say part responsive start */
+    .people-item {
+        padding: 0 30px;
+    }
+    /* people say part responsive end */
+
+    /* contact part responsive start */
+    .cont-rigth-head{
+        margin-top: 50px;
+    }
+    /* contact part responsive end */
+
+    /* footer part responsive start */
+    .footer-middle{
+        margin-top: 25px;
+    }
+    .footer-bottom1{
+        text-align: center;
+    }
+    .footer-bottom2{
+        text-align: center;
+    }
+    /* footer part responsive end */
+    }
+
+@media (max-width:767.98px){
+
+}
+
+@media (max-width:575.98px){
+
+  /* menu part responsive start */
+  .menu-bg{
+    background: #141035;
+  }
+  /* menu part responsive end */
+  /* banner part responsive start */
+  .banner-text span {
+	font-size: 20px;
+	line-height: 40px;
+}
+.banner-text span::after{
+  bottom: -60px;
+}
+ul.slick-dots{
+    display: none !important;
+}
+.banner-text p {
+    padding: 0 15px;
+    margin-top: 70px;
+}
+  /* banner part responsive end */
+
+  /* story part responsive start */
+  .story-info{
+    margin-top: 30px;
+  }
+  .story-info p{
+    margin-bottom: 20px;
+  }
+  /* story part responsive end */
+
+  /* experience part responsive start */
+  .exper-item{
+    padding: 25px 0;
+  }
+  .exper-item h4 {
+	font-size: 18px;
+}
+  /* experience part responsive end */
+
+  /* team part responsive start */
+  .team-item{
+    margin-bottom: 20px;
+  }
+  /* team part responsive end */
+
+  /* work part responsive start */
+  .work-btn button{
+    margin-bottom: 10px;
+    padding: 5px 20px;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  /* work part responsive end */
+  
+  /* team part responsive start */
+  .team-bottom p {
+	font-size: 14px;
+}
+  /* team part responsive end */
+
+/* people say part responsive start */
+.people-item {
+    padding: 0 20px;
+ }
+/* people say part responsive end */
+
+/* contact part responsive start */
+.cont-rigth-head{
+    margin-top: 50px;
+}
+/* contact part responsive end */
+
+/* footer part responsive start */
+.footer-middle{
+    margin-top: 25px;
+}
+.footer-bottom1 ul{
+	text-align: center;
+}
+.footer-bottom1 ul li{
+    margin-bottom: 10px;
+}
+.footer-bottom2{
+    text-align: center;
+}
+/* footer part responsive end */
+}
